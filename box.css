@@ -1,0 +1,38 @@
+/* #mahi{
+    box-sizing: border-box;
+    border:1px solid green;
+    width:25%;
+    padding:10px;
+   
+    box-shadow:2px 2px 2px red;
+    float:left;
+} */
+
+#nani{
+    background-image: url('cheetah.jpg');
+    background-repeat: no-repeat;
+    
+   
+}
+#mahi{
+    /* box-sizing: content-box; */
+    border:10px solid green;
+    width:24.6%;
+    padding:10px;
+   
+    box-shadow:2px 2px 2px red;
+    float: inline-start;
+    display: inline-block;
+    box-sizing: content-box;
+}
+
+.mahi{
+  /* box-sizing: content-box; */
+  margin: 40px;
+  margin-left: 0px;
+    border: 10px solid green;
+    width:50%;
+    height:100px;
+
+
+}
